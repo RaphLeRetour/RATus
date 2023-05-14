@@ -1,5 +1,6 @@
 /.idea
 /Implant/bin
-/Implantobj
+/Implant/obj
 /Server/bin
 /Server/obj
+/packages
